@@ -2175,43 +2175,5 @@ git fetch：相当于是从远程获取最新版本到本地，不会自动merge
 
 #### 什么样的前端代码是好的
 
-
 高复用低耦合，这样文件小，好维护，而且好扩展。
 
-
-#### 代码题
-
-- [css代码题](./readme.html)
-- [js代码题](./readme.js)
-
-
-  [16]: /imgs/what-is-html5.jpg
-
-
-  [2]: http://segmentfault.com/blog/trigkit4/1190000000718840
-
-  [3]: http://segmentfault.com/blog/trigkit4/1190000000660786#articleHeader15
-
-  [4]: http://segmentfault.com/blog/trigkit4/1190000000687844
-
-  [5]: http://segmentfault.com/blog/trigkit4/1190000000758184#articleHeader5
-
-  [6]: http://segmentfault.com/blog/trigkit4/1190000000800711#articleHeader30
-
-  [7]: http://segmentfault.com/blog/trigkit4/1190000000656717
-
-  [8]: http://segmentfault.com/blog/trigkit4/1190000000697254
-
-  [9]: http://segmentfault.com/blog/trigkit4/1190000002440502
-
-  [10]: http://segmentfault.com/blog/trigkit4/1190000000691919
-
-  [11]: http://segmentfault.com/blog/trigkit4/1190000002585760
-
-  [12]: http://segmentfault.com/blog/trigkit4/1190000000652891
-
-  [13]: http://segmentfault.com/blog/trigkit4/1190000002174034
-
-  [14]: http://segmentfault.com/blog/trigkit4/1190000000691919
-
-  [15]: http://segmentfault.com/blog/trigkit4/1190000000733959
